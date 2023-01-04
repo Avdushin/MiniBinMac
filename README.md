@@ -50,9 +50,9 @@ chmod +x install.sh
 
 ### Установщик `install.sh` переносит его по пути `/usr/local/bin/` и `opt/local/bin/` , вы можете добавить исполняемый фал в **объекты входа**
 
-![Объекты входа](docs/img/login_objects_script.png)
+![Объекты входа](docs/img/autostart_settings.png)
 
-![Добавление исполняемого файлв в объекты входа](docs/img/login_settings_script.png)
+![Добавление исполняемого файлв в объекты входа](docs/img/autostart_objects.png)
 
 ### теперь приложение будет автоматически запускаться при входе в систему
 
